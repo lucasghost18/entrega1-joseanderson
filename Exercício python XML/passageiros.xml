@@ -1,0 +1,37 @@
+<passageiros>
+    <passageiro>
+        <nome>João</nome>
+        <idade>30</idade>
+        <numero_ticket>12345</numero_ticket>
+        <origem>São Paulo</origem>
+        <destino>Rio de Janeiro</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Maria</nome>
+        <idade>25</idade>
+        <numero_ticket>54321</numero_ticket>
+        <origem>Rio de Janeiro</origem>
+        <destino>São Paulo</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Carlos</nome>
+        <idade>40</idade>
+        <numero_ticket>98765</numero_ticket>
+        <origem>Belo Horizonte</origem>
+        <destino>Brasília</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Ana</nome>
+        <idade>28</idade>
+        <numero_ticket>67890</numero_ticket>
+        <origem>Recife</origem>
+        <destino>Salvador</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Pedro</nome>
+        <idade>22</idade>
+        <numero_ticket>23456</numero_ticket>
+        <origem>Porto Alegre</origem>
+        <destino>Curitiba</destino>
+    </passageiro>
+</passageiros>
